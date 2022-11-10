@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #10: A Dope lion chillen in the desert looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-lion-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "0aa0ee02a39ee1e96dc99c81d614a8508747afa4",
+  "edition": 10,
+  "date": 1667953079647
+}

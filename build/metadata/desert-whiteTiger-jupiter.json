@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #8: A Dope whitetiger chillen in the desert looking at jupiter",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-whiteTiger-jupiter.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "jupiter"
+    }
+  ],
+  "sha": "a927926d1a5abd5484dad9cbebef8562c8ff0a3d",
+  "edition": 8,
+  "date": 1667953079261
+}

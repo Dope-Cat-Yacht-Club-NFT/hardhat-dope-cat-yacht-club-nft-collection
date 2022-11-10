@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #123: A Dope jaguar chillen in the jungle looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-jaguar-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "4f3ca7d203cb13ed2aca744f29da6df52941cfe1",
+  "edition": 123,
+  "date": 1667953101289
+}

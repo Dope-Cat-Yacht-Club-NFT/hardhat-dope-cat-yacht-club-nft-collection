@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #185: A Dope whitetiger chillen in the savannah looking at venus",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-whiteTiger-venus.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "venus"
+    }
+  ],
+  "sha": "19ba2b0f1f2fc0d02da61a029e54fa25a9c7868f",
+  "edition": 185,
+  "date": 1667953112639
+}

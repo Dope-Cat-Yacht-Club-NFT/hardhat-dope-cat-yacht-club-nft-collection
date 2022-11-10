@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #80: A Dope lion chillen in the desert looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-lion-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "4e00a3c045992c3b5e3f963b13e4517fbcc626cb",
+  "edition": 80,
+  "date": 1667953092565
+}

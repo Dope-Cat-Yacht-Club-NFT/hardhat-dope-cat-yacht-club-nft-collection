@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #79: A Dope puma chillen in the savannah looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-puma-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "9e5cfc43ffc36b57672ed31f4c5b97ad3b22723f",
+  "edition": 79,
+  "date": 1667953092329
+}

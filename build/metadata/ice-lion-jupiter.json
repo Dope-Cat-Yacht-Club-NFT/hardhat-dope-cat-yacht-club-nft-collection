@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #119: A Dope lion chillen in the ice looking at jupiter",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-lion-jupiter.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "jupiter"
+    }
+  ],
+  "sha": "32d1ff963edfdf4ae6543683dd9e0f752025d022",
+  "edition": 119,
+  "date": 1667953100695
+}

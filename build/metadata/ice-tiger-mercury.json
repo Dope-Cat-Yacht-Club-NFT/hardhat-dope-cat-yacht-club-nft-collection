@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #157: A Dope tiger chillen in the ice looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-tiger-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "914d557e16cc7402971502ad26eb84ddeb1fbfd2",
+  "edition": 157,
+  "date": 1667953107404
+}

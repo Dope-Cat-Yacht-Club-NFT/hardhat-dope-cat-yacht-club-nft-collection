@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #144: A Dope puma chillen in the ice looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-puma-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "fba11986547b321c5d0ebe985e695602ede9ce91",
+  "edition": 144,
+  "date": 1667953104916
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #67: A Dope puma chillen in the jungle looking at uranus",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-puma-uranus.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "uranus"
+    }
+  ],
+  "sha": "08b734de8b42f056b6c6b5c49e00c173917c79c7",
+  "edition": 67,
+  "date": 1667953089023
+}

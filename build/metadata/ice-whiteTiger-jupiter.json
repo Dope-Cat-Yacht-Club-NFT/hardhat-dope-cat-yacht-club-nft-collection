@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #3: A Dope whitetiger chillen in the ice looking at jupiter",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-whiteTiger-jupiter.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "jupiter"
+    }
+  ],
+  "sha": "79a6e92769d5d0414f4ae0f2dad2f82db9f160be",
+  "edition": 3,
+  "date": 1667953078404
+}

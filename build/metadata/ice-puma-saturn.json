@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #81: A Dope puma chillen in the ice looking at saturn",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-puma-saturn.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "saturn"
+    }
+  ],
+  "sha": "1aabb910e40b03404bb361a9e3d13437b8a73aa6",
+  "edition": 81,
+  "date": 1667953092819
+}

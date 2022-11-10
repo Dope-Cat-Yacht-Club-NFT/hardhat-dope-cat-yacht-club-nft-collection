@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #174: A Dope tiger chillen in the savannah looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-tiger-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "316293ed01694c6419190e26d6cfe28db26cdcbc",
+  "edition": 174,
+  "date": 1667953110547
+}

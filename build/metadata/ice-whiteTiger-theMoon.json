@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #61: A Dope whitetiger chillen in the ice looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-whiteTiger-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "9699433d6a682d73cd8d699ef5cd61442e7142fc",
+  "edition": 61,
+  "date": 1667953088007
+}

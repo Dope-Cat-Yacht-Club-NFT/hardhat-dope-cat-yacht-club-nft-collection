@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #100: A Dope puma chillen in the savannah looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-puma-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "7aadf0478ae54ae41369554e6db33ac9c63acf97",
+  "edition": 100,
+  "date": 1667953097183
+}

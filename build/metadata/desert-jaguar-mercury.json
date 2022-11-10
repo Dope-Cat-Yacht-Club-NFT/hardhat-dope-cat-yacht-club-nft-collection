@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #60: A Dope jaguar chillen in the desert looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-jaguar-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "12176dc27948aaa2867cab3e4ac8d074edf88149",
+  "edition": 60,
+  "date": 1667953087804
+}

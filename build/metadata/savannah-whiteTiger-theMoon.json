@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #126: A Dope whitetiger chillen in the savannah looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-whiteTiger-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "fd65af6bf8c855eb52ad59d85c2eebb92743d8af",
+  "edition": 126,
+  "date": 1667953101894
+}

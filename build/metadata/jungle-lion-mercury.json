@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #13: A Dope lion chillen in the jungle looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-lion-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "c91fb162eec3b0d65ecb64ac9baac5c53d6ce7db",
+  "edition": 13,
+  "date": 1667953080115
+}

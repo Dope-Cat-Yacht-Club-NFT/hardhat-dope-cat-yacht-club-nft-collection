@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #167: A Dope jaguar chillen in the ice looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-jaguar-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "c1f610c860f15289355dc3fdad09d9a2ceee02da",
+  "edition": 167,
+  "date": 1667953109321
+}

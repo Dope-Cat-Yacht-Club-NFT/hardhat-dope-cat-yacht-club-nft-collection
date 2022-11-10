@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #87: A Dope tiger chillen in the savannah looking at saturn",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-tiger-saturn.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "saturn"
+    }
+  ],
+  "sha": "4126e366022b4bd7b70e209e24bfc4ea7c510325",
+  "edition": 87,
+  "date": 1667953093934
+}

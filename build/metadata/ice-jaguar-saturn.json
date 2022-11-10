@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #69: A Dope jaguar chillen in the ice looking at saturn",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-jaguar-saturn.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "saturn"
+    }
+  ],
+  "sha": "bf2316b9fe4c614852483270bb9aa979871c6313",
+  "edition": 69,
+  "date": 1667953089604
+}

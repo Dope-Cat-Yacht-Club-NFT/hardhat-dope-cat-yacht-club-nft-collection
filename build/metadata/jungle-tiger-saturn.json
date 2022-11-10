@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #143: A Dope tiger chillen in the jungle looking at saturn",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-tiger-saturn.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "saturn"
+    }
+  ],
+  "sha": "d2a1bdebf9804a1e6f90bf43fe8eaabcbebf4c07",
+  "edition": 143,
+  "date": 1667953104717
+}

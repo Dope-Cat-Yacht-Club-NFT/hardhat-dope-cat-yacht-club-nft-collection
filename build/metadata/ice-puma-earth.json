@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #51: A Dope puma chillen in the ice looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-puma-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "9eae8946d97b32dbeb4a0f62d3efc2e5e84c6402",
+  "edition": 51,
+  "date": 1667953086373
+}

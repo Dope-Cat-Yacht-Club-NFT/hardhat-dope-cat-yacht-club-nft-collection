@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #33: A Dope jaguar chillen in the ice looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-jaguar-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "3f753f1b57ea7d11a8560df6be2c5e15643cc1ce",
+  "edition": 33,
+  "date": 1667953083700
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #173: A Dope whitetiger chillen in the jungle looking at jupiter",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-whiteTiger-jupiter.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "jupiter"
+    }
+  ],
+  "sha": "d3aba776fe816199c87f765cedda9283cb8e0a3e",
+  "edition": 173,
+  "date": 1667953110448
+}

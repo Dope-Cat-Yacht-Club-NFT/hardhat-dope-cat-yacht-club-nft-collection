@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #90: A Dope whitetiger chillen in the jungle looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-whiteTiger-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "1b02db1c0d3eb5a95facdcfc54e4db94df1652c8",
+  "edition": 90,
+  "date": 1667953094663
+}

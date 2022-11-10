@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #161: A Dope lion chillen in the jungle looking at uranus",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-lion-uranus.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "uranus"
+    }
+  ],
+  "sha": "56b55af72b78b171495f4e9fd9f1c88e591ba6a7",
+  "edition": 161,
+  "date": 1667953108007
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #26: A Dope jaguar chillen in the ice looking at venus",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-jaguar-venus.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "venus"
+    }
+  ],
+  "sha": "b09a77978980b498bc6b3f9e4949f021545e8e0e",
+  "edition": 26,
+  "date": 1667953082639
+}

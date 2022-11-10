@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #35: A Dope tiger chillen in the jungle looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-tiger-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "b4fab5e797b3b6c8755dc60657d36d43fc7c68ab",
+  "edition": 35,
+  "date": 1667953083943
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #133: A Dope tiger chillen in the savannah looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-tiger-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "b6ebb29cc3123896624054c35a0e5dce37d48798",
+  "edition": 133,
+  "date": 1667953103129
+}

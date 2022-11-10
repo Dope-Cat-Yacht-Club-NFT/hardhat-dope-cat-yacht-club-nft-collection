@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #117: A Dope tiger chillen in the desert looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-tiger-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "ee88224ecabc26b10df0b022d3c3214839af796c",
+  "edition": 117,
+  "date": 1667953100222
+}

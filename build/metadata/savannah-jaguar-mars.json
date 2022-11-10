@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #17: A Dope jaguar chillen in the savannah looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-jaguar-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "d73937dc8153765e9cbca39eb3cbc9b510c7a743",
+  "edition": 17,
+  "date": 1667953080867
+}

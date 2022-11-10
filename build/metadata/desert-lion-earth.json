@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #184: A Dope lion chillen in the desert looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-lion-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "cd3eb1c61dae6dc3f6efa455c4e166e0cc94db25",
+  "edition": 184,
+  "date": 1667953112446
+}

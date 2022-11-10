@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #183: A Dope puma chillen in the jungle looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-puma-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "1cd6bc0a08a7daadfdc4c1baa3ba33c773671a8c",
+  "edition": 183,
+  "date": 1667953112237
+}

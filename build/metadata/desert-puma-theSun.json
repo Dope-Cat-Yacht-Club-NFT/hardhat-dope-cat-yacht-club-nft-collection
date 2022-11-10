@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #73: A Dope puma chillen in the desert looking at thesun",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-puma-theSun.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theSun"
+    }
+  ],
+  "sha": "520c51a2c347b5a2a4ac5a9566e1c482ee824cb3",
+  "edition": 73,
+  "date": 1667953090314
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #106: A Dope tiger chillen in the ice looking at saturn",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-tiger-saturn.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "saturn"
+    }
+  ],
+  "sha": "701b5ff1561bd1f720f608987abc29da9f91076f",
+  "edition": 106,
+  "date": 1667953098468
+}

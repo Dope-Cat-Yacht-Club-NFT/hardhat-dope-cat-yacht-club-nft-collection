@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #155: A Dope puma chillen in the ice looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-puma-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "70be047ac1e8cafcc4a6fc5444331759dc10fdc9",
+  "edition": 155,
+  "date": 1667953106998
+}

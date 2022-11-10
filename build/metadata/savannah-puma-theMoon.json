@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #95: A Dope puma chillen in the savannah looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-puma-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "760fb2c38cb0f52c118353cd729db7603be1e462",
+  "edition": 95,
+  "date": 1667953096187
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #175: A Dope tiger chillen in the ice looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-tiger-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "8f9f9689e60667680ba177d05c384401203886d8",
+  "edition": 175,
+  "date": 1667953110732
+}

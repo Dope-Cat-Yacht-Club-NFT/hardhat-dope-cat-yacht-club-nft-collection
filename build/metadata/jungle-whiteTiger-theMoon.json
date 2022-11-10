@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #176: A Dope whitetiger chillen in the jungle looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-whiteTiger-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "feafff3a0106bf9fb9f061709b67d62b92b1724e",
+  "edition": 176,
+  "date": 1667953110995
+}

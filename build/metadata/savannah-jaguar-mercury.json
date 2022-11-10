@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #138: A Dope jaguar chillen in the savannah looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-jaguar-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "8e49ffa167d8330ed7c54de02426597e9e0f565a",
+  "edition": 138,
+  "date": 1667953103917
+}

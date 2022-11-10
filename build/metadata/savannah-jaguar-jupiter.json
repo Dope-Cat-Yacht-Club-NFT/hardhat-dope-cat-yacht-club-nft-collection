@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #163: A Dope jaguar chillen in the savannah looking at jupiter",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-jaguar-jupiter.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "jupiter"
+    }
+  ],
+  "sha": "becc9e0de733df82823b1aae36c2ba4b25ac7920",
+  "edition": 163,
+  "date": 1667953108361
+}

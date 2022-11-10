@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #75: A Dope jaguar chillen in the ice looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-jaguar-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "jaguar"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "8cf263c1c64388319e2d34e52515e5647fa82882",
+  "edition": 75,
+  "date": 1667953091087
+}

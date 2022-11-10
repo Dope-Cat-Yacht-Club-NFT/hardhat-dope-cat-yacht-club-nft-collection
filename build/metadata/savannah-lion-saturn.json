@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #76: A Dope lion chillen in the savannah looking at saturn",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-lion-saturn.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "saturn"
+    }
+  ],
+  "sha": "e7d729f1a4af8a50bd54649b4273a618987a378b",
+  "edition": 76,
+  "date": 1667953091256
+}

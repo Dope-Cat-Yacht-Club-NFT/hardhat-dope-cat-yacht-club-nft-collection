@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #116: A Dope tiger chillen in the savannah looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-tiger-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "b4c43864f4c7564cc5c2eb183cfae8f50c0c8c89",
+  "edition": 116,
+  "date": 1667953100059
+}

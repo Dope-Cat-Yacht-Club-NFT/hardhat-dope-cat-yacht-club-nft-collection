@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #70: A Dope tiger chillen in the savannah looking at neptune",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-tiger-neptune.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "neptune"
+    }
+  ],
+  "sha": "6eb1b556cc7549acd263066d4cd32ebfca6926c5",
+  "edition": 70,
+  "date": 1667953089763
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #125: A Dope lion chillen in the ice looking at themoon",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-lion-theMoon.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "theMoon"
+    }
+  ],
+  "sha": "ebbf5e3dbdad3c9b185857822c36a98904bd4407",
+  "edition": 125,
+  "date": 1667953101742
+}

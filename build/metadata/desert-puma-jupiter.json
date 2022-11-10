@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #2: A Dope puma chillen in the desert looking at jupiter",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/desert-puma-jupiter.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "jupiter"
+    }
+  ],
+  "sha": "561ecb580e3a84d620f70c6d3187c67f0d02cf28",
+  "edition": 2,
+  "date": 1667953078133
+}

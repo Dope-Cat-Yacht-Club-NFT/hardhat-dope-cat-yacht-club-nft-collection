@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #193: A Dope whitetiger chillen in the ice looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-whiteTiger-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "whiteTiger"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "c58b1b2b31d21b0ba8b50aa81b6cb33da03d988e",
+  "edition": 193,
+  "date": 1667953114254
+}

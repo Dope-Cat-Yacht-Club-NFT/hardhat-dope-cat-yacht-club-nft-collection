@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #18: A Dope lion chillen in the jungle looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/jungle-lion-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "jungle"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "c7d5b83e41fba369be242c1f45eeb832deb5094e",
+  "edition": 18,
+  "date": 1667953080971
+}

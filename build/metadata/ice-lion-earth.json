@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #50: A Dope lion chillen in the ice looking at earth",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-lion-earth.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "earth"
+    }
+  ],
+  "sha": "3fcc0c055acc2d13e7786c8f2555cb6b303eddf3",
+  "edition": 50,
+  "date": 1667953086184
+}

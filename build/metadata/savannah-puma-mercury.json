@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #36: A Dope puma chillen in the savannah looking at mercury",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/savannah-puma-mercury.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "savannah"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "puma"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mercury"
+    }
+  ],
+  "sha": "e08d635178ddfb2c564da199721528f595f2831e",
+  "edition": 36,
+  "date": 1667953084064
+}

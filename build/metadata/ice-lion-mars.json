@@ -1,0 +1,22 @@
+{
+  "name": "Dope Cat Yacht Club #120: A Dope lion chillen in the ice looking at mars",
+  "description": "Dope big cats with astronimcal views",
+  "image": "ipfs://NFT_URI_TO_REPLACE/ice-lion-mars.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice"
+    },
+    {
+      "trait_type": "CatType",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "mars"
+    }
+  ],
+  "sha": "19d24b7c3efaf8a0210bc521ab3ae4235090081a",
+  "edition": 120,
+  "date": 1667953100902
+}
